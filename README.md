@@ -1,5 +1,5 @@
 # AustraliaRainForecasting_LightGBM
-Using LightGBM, we attemp to forecast whether or not it rains for certain major cities in Australia
+Using LightGBM, we attempt to forecast whether or not it rains for certain major cities in Australia
 
 Here's a notebook which attempts to predict whether or not it will rain tomorrow for major cities in Australia.  ( link: https://lnkd.in/fvic9gm ). This dataset, which I found on Kaggle (posted on Kaggle) contains daily weather observations from numerous Australian weather stations. http://www.bom.gov.au/climate/data. Copyright Commonwealth of Australia 2010, Bureau of Meteorology.
 
